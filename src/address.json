@@ -1,0 +1,17 @@
+{
+    "permanentAddress": {
+      "street": "Shyamal Upvan",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "zip": "360005",
+      "country": "India"
+    },
+    "currentAddress": {
+        "checkbox": "sameas"
+    },
+    "correspondenceAddress": {
+      "checkbox": "sameas"
+     
+    }
+  }
+  

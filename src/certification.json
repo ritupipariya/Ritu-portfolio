@@ -1,0 +1,16 @@
+{
+    "certifications": [
+      {
+        "courseName": "Data Science with Python",
+        "platform": "Coursera",
+        "date": "2024-05-13",
+        "credentialURL": "https://www.mygreatlearning.com/academy"
+      },
+      {
+        "courseName": "Web Development with JavaScript",
+        "platform": "Udemy",
+        "date": "2025-06-21",
+        "credentialURL": "https://swayam.gov.in/"
+      }
+    ]
+  }

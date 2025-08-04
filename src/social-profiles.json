@@ -1,0 +1,20 @@
+{
+    "profiles": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/username/"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/username"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/username/"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/username"
+      }
+    ]
+  }

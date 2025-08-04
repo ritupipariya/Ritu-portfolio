@@ -1,0 +1,16 @@
+{
+    "projects": [
+      {
+        "title": "Calc My Money",
+        "techStack": ["Python"],
+        "description": "You can use this online EMI calculator for all types of loans incuding personal loans, business loans, and car loans.All you need to know is the interest rate payable on the principal amount and the tenure.",
+        "outcome": "Developed a user-friendly online EMI calculator for various loan types, enabling informed financial decisions."
+      },
+      {
+        "title": "Language Translator",
+        "techStack": ["Python"],
+        "description": "These multilingual professionals transctibe documents and text from a source language into a target language, ensuring the translation maintains the orignal meaning.If you speck more than one language,have excellent communication skills and enjoy writing working as a translator may be the career for you.",
+        "outcome": "Created a multilingual translation tool that accurately preserves meaning and context, facilitating communication across languages."
+      }
+    ]
+  }
